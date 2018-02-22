@@ -10,7 +10,7 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
 var newfacts = [];
 var i = 0
 while (i < facts.length) {
-  newfacts.push(facts[i] + "!!!")
+  newfacts.push(facts[i] + "!!!");
   i++;
 }
 return newfacts;
