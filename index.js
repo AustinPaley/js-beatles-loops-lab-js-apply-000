@@ -13,6 +13,7 @@ return newfacts
 
 function iLoveTheBeatles (){
   var number=[];
+  var i = 0
   do {
    number + "I love the Beatles!"; 
    i++;
