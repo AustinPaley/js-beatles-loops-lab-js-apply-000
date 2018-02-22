@@ -11,12 +11,12 @@ while (i<facts.length) {
 return newfacts
 }
 
-function iLoveTheBeatles (number){
+function iLoveTheBeatles (){
   var number=[];
   do {
-    
+   number + "I love the Beatles!"; 
+   i++;
   }
-  "I love the Beatles!"
-  number < 15
   while (i < 15);
+return number
 }
