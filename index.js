@@ -18,6 +18,6 @@ function iLoveTheBeatles (num){
    number.push("I love the Beatles!"); 
    num++;
   }
-  while (i < 15);
+  while (num < 15);
 return number
 }
