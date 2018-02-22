@@ -11,7 +11,7 @@ while (i<facts.length) {
 return newfacts
 }
 
-function iLoveTheBeatles (){
+function iLoveTheBeatles (num){
   var number=[];
   var i = 0
   do {
